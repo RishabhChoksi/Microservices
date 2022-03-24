@@ -1,2 +1,2 @@
 # Microservices
-This is for practicing Spring Cloud fundamentals.
+This is a short demo project meant for covering Spring Cloud fundamentals.
